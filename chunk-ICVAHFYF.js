@@ -1,0 +1,1 @@
+import{$a as n,Z as t,qa as i}from"./chunk-EMCYAISO.js";var m=(()=>{class e{element=t(i);ngOnInit(){setTimeout(()=>{this.element.nativeElement.focus()},1)}static \u0275fac=function(r){return new(r||e)};static \u0275dir=n({type:e,selectors:[["","autofocus",""]]})}return e})();export{m as a};
